@@ -25,7 +25,7 @@ def quicksort(l, r, nums):
  
  
 example = [4, 3, 1, 2, 5]
-result = [1, 2, 3, 4, 5]
+result = [5, 4, 3, 2, 1]
 print(quicksort(0, len(example)-1, example))
  
 example = [2, 5, 6, 1, 4, 6, 2, 4, 7, 8]
